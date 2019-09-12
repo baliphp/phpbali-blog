@@ -3,8 +3,8 @@
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
+    'siteName' => 'Blog Komunitas PHPBali',
+    'siteDescription' => 'Blog membahas tentang pengembangan web dan PHP',
     'siteAuthor' => 'Author Name',
 
     // collections
