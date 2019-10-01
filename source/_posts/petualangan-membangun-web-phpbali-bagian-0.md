@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Petualangan Membangun Web PHPBali bagian 0
 date: 2018-10-26
-description: 
+description: Sudah setengah tahun komunitas PHPBali berdiri dan saya berterima kasih kepada teman-teman yang sudah mendukung secara langsung maupun tidak langsung pada komunitas ini.
 author: Satya Kresna
 ---
 
@@ -12,7 +12,7 @@ Sudah setengah tahun komunitas PHPBali berdiri dan saya berterima kasih kepada t
 
 Itulah sebabnya di meetup ketiga saya berkolaborasi dengan BaliJS membahas teknologi yang ada di web serta kami menambahkan sesi baru yakni tukar pikiran. Bagi teman-teman yang belum sempat tonton silahkan lihat [di sini](https://www.facebook.com/pg/balihypertext/videos/).
 
-<img src="../../assets/images/phpbali-site-third-meetup.png" alt="PHPBali site third meetup">
+<img src="/assets/images/phpbali-site-third-meetup.png" alt="PHPBali site third meetup">
 
 ## Mulai
 
@@ -58,6 +58,6 @@ Namun di balik itu semua saya tetap bersyukur teman-teman yang sudah membantu sa
 
 Berikut saya perkenalkan tim yang membuat website dan memelihara website.
 
-<img src="../../assets/images/phpbali-site-team.png" alt="PHPBali site team">
+<img src="/assets/images/phpbali-site-team.png" alt="PHPBali site team">
 
 Tunggu cerita kami membangun web PHPBali bagian pertama.
