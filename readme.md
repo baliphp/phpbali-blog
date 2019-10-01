@@ -4,7 +4,7 @@ Kami migrasi dari website medium PHPBali. Blog ini berisi tentang tulisan pengem
 
 ## Teknologi
 
-Kami menggunakan bantuan Jigsaw (Laravel Static Site Generator), markdown untuk konten, dan Github Pages sebagai tempat menampung hasil deployment.
+Kami menggunakan bantuan Jigsaw (Laravel Static Site Generator), markdown untuk konten, Travis CI untuk melakukan proses deployment, dan Github Pages sebagai tempat menampung hasil deployment.
 
 ## Instalasi
 
