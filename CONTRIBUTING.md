@@ -22,6 +22,8 @@ Atribut `section` attribute mendefinisikan konten akan ditempatkan padaa "sesi" 
 
 Berikut adalah format yang telah ditetapkan.
 
+Nama file harus diberi tanda "-" untuk menggantikan spasi dan pastikan dengan ekstensi `.md`. Misalnya nama file adalah `penggunaan-array-map-dan-filter-diphp.md`
+
 ```yaml
 ---
 extends: _layouts.post
