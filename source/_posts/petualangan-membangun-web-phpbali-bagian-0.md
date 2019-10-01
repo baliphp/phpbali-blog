@@ -33,13 +33,13 @@ Saya membelinya di IDCloudHost dan biaya tersebut berasal dari uang pribadi saya
 
 Untuk deployment kami lakukan dengan cara manual yakni upload via FTP. Kami melakukannya di sore hari dan sebelumnya kami down website kami dengan perintah php artisan down.
 
-Manajemen penyimpanan data berupa aset gambar atau file, kami tidak melakukan symlink ke folder storage. Kami melakukan binding ke folder public. (tampilkan kode dan screenshot)
+Manajemen penyimpanan data berupa aset gambar atau file, kami tidak melakukan symlink ke folder storage. Kami melakukan binding ke folder public.
 
 Untuk menguji performa website PHPBali versi 0, kami menggunakan situs webpagetest dan hasilnya kurang memuaskan baik dari sisi mobile dan dekstop walaupun kami menggunakan Laravel page-speed untuk memampatkan tag html.
 
-Hasil tes di mobile
+**[Hasil performa website PHPBali melalui webpagetest di platform mobile](https://www.webpagetest.org/result/181026_0A_ba35012371707c5541c2e78bd3586971/?source=post_page-----ca8a23a1f540----------------------)**
 
-Hasil tes di desktop
+**[Hasil performa website PHPBali melalui webpagetest di platform desktop](https://www.webpagetest.org/result/181026_FN_a6afb68155142332335c7696761eec34/?source=post_page-----ca8a23a1f540----------------------)**
 
 Faktor-faktor yang mempengaruhi performa website menurut saya:
 - Gambar poster yang sampai 2 MB (silahkan inspect element). Hal ini terjadi karena kesalahan yang kami lakukan menggunakan intervention image.
