@@ -10,7 +10,7 @@ Kami menggunakan bantuan Jigsaw (Laravel Static Site Generator), markdown untuk 
 
 Setelah melakukan clone repository, lakukan langkah-langkah berikut:
 
-1. `composer install` untuk menginstal paket-paket yang ada di file `composer.json`.
+1. Jalankan perintah `composer install` untuk menginstal paket-paket yang ada di file `composer.json`.
 2. Jalankan perintah `npm install` untuk menginstal paket-paket yang ada di file `package.json`.
 3. Jalankan perintah `./vendor/bin/jigsaw build` untuk memperoleh hasil website.
 4. Jalankan perintah `./vendor/bin/jigsaw serve` untuk melihat hasil website di browser.
